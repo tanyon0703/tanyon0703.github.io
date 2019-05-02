@@ -1,0 +1,91 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tanyon00703.github.io.com" resolutions="1x,2x" timestamp="1556788808717">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="tanyonlee.css" crc="313069345" ref="tanyonlee"/>
+    <file name="index.css" crc="302584088" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tanyonlee"/>
+    <file name="museutils.js" crc="340535759" ref="index:tanyonlee"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tanyonlee"/>
+    <file name="museconfig.js" crc="310584261" ref="index:tanyonlee"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:tanyonlee"/>
+    <file name="require.js" crc="7928878" ref="index:tanyonlee"/>
+  </folder>
+  <folder name="images">
+    <file name="首頁-favicon.ico" crc="4139261169" ref="index"/>
+    <file name="images.jpg" crc="284533367" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="images_2x.jpg" crc="371857837" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="08.jpg" crc="3818031436" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="08_2x.jpg" crc="41430929" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="u116-4.png" crc="174179540" ref="tanyonlee"/>
+    <file name="u116-4_2x.png" crc="234725086" ref="tanyonlee"/>
+    <file name="u266-4.png" crc="3926232394" ref="tanyonlee"/>
+    <file name="u266-4_2x.png" crc="250537607" ref="tanyonlee"/>
+    <file name="u272-4.png" crc="54697398" ref="tanyonlee"/>
+    <file name="u272-4_2x.png" crc="4221296391" ref="tanyonlee"/>
+    <file name="u120-4.png" crc="4092073770" ref="tanyonlee"/>
+    <file name="u120-4_2x.png" crc="3974966417" ref="tanyonlee"/>
+    <file name="58602837_859444711067508_6594490819183378432_n.jpg" crc="120038599" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="0227.jpg" crc="288109855" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="0227_2x.jpg" crc="3873602590" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="0409.jpg" crc="210578493" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="0409_2x.jpg" crc="4186977881" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="0213ant.jpg" crc="4005626366" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="0213ant_2x.jpg" crc="142676992" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="58461547_858741567804489_3178516407402889216_n.jpg" crc="311392969" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="58461547_858741567804489_3178516407402889216_n_2x.jpg" crc="159519438" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="u185-15.png" crc="4093840231" ref="tanyonlee"/>
+    <file name="u185-15_2x.png" crc="119911096" ref="tanyonlee"/>
+    <file name="u188-4.png" crc="3992542559" ref="tanyonlee"/>
+    <file name="u188-4_2x.png" crc="3926886439" ref="tanyonlee"/>
+    <file name="jcve4-7wptm.gif" crc="4142938431" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="jcve4-7wptm_2x.gif" crc="4142938431" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="u237-11.png" crc="4174533171" ref="tanyonlee"/>
+    <file name="u237-11_2x.png" crc="535933549" ref="tanyonlee"/>
+    <file name="長鏡頭書籍素材.png" crc="4290769809" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="長鏡頭書籍素材_2x.png" crc="4095600623" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="9j1b5-h1w5h.gif" crc="4091399171" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+    <file name="9j1b5-h1w5h_2x.gif" crc="4091399171" seo="true" ref="tanyonlee">
+      <caption webpage="tanyonlee" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="330062906" seo="true" mt="1556727994737" redirect="false"/>
+  <file name="tanyonlee.html" crc="869424" seo="true" mt="1556788276870" redirect="true"/>
+</manifest>
